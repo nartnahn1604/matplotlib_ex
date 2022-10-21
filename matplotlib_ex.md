@@ -1,4 +1,4 @@
-# I. Bar chart
+# I. Bar chart & Pie
 ## &nbsp; 1.
 ## &nbsp; Sample data:
 ## &nbsp; Programming languages: Java, Python, PHP, JavaScript, C#, C++
@@ -7,17 +7,17 @@
 
 ## &nbsp; - Write a Python programming to display a bar chart of the popularity of programming Languages.
 ## &nbsp; - Display a horizontal bar chart
-![alt text](matplotlib-barchart-exercise-2.png)
+![Problem 1](matplotlib-barchart-exercise-2.png)
 ## &nbsp; - Use different color for each bar
-![alt text](matplotlib-barchart-exercise-4.png)
+![Problem 2](matplotlib-barchart-exercise-4.png)
 ## &nbsp; - Attach a text label above each bar displaying its popularity (float value)
-![alt text](matplotlib-barchart-exercise-5.png)
+![Problem 3](matplotlib-barchart-exercise-5.png)
 ## &nbsp; - Create a pie chart
-![alt text](matplotlib-piechart-exercise-1.png)
+![Problem 4](matplotlib-piechart-exercise-1.png)
 ## &nbsp; - Set a title
-![alt text](matplotlib-piechart-exercise-2.png)
+![Problem 5](matplotlib-piechart-exercise-2.png)
 ## &nbsp; - Make multiple wedges of the pie
-![alt text](matplotlib-piechart-exercise-3.png)
+![Problem 6](matplotlib-piechart-exercise-3.png)
 
 ## &nbsp; 2.
 ## &nbsp; Sample Data:
@@ -25,4 +25,4 @@
 ## &nbsp; Means (women) = (25, 32, 30, 35, 29)
 ## &nbsp; The code snippet gives the output shown in the following screenshot
 ## &nbsp; - Write a Python program to create bar plot of scores by group and gender. Use multiple X values on the same chart for men and women.
-![alt text](matplotlib-barchart-exercise-10.png)
+![Problem 7](matplotlib-barchart-exercise-10.png)
